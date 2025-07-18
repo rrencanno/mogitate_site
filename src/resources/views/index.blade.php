@@ -5,6 +5,7 @@
 @endsection
 
 @section('content')
+<p>ブランチで変更を加えた</p>
 <div class="container">
     <div class="header">
         <h1 class="subtitle">商品一覧</h1>
